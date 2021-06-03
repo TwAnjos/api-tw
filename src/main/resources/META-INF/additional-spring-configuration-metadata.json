@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "$spring.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for '$spring.datasource.username'"
+  },
+  {
+    "name": "tw.rds1",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.rds1'"
+  },
+  {
+    "name": "tw.rds2",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.rds2'"
+  },
+  {
+    "name": "tw.rds3",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.rds3'"
+  },
+  {
+    "name": "tw.rds4",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.rds4'"
+  },
+  {
+    "name": "tw.rds5",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.rds5'"
+  },
+  {
+    "name": "tw.rds6",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.rds6'"
+  },
+  {
+    "name": "tw.oquevemdaqui1",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.oquevemdaqui1'"
+  },
+  {
+    "name": "tw.oquevemdaqui2",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.oquevemdaqui2'"
+  },
+  {
+    "name": "tw.oquevemdaqui3",
+    "type": "java.lang.String",
+    "description": "A description for 'tw.oquevemdaqui3'"
+  }
+]}

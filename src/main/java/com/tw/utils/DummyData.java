@@ -5,7 +5,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import javax.annotation.PostConstruct;
+
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 import com.tw.model.Tw;
@@ -17,7 +20,7 @@ public class DummyData {
 	@Autowired
 	ITwRepository iTwRepository;
 
-	// @PostConstruct
+	@PostConstruct
 	public void StartDataInDB() {
 
 		Tw tw1 = new Tw(null, "Thiago1", "Waltrick1", 34, LocalDate.now(), "campo de observação.", true);
